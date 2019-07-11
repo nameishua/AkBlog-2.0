@@ -12,6 +12,6 @@ springboot整合ssm,
 
 博客内容中添加的图片上传至静态服务器保存.
 
-新版目前放在自己搭的云svn仓库<http://coderak.top:81/!/#aknewblog> 
+新版目前放在自己搭的gitblit
 
 过一段时间再上传到github.
